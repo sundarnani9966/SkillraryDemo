@@ -4,8 +4,9 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="TestScript.firstTest"/>
-      <class name="TestScript.ThirdTest"/>
+     
       <class name="TestScript.SecondTest"/>
+      
       <class name="TestScript.fourthTest"/>
     </classes>
   </test> <!-- Test -->
